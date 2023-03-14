@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Ze kijken er naar uit om hun oma te zien.'
+      img: 'De gleder seg til å se bestemoren sin.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Haar dorp ligt niet ver van de stad.'
+      img: 'Landsbyen hennes er ikke langt fra byen.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'We gaan met ze mee.'
+      img: 'Vi kommer sammen med dem.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Kan je op ons wachten?'
+      img: 'Kan du vente på oss?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Ik moet het iedereen vragen.'
+      img: 'Jeg må spørre alle.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'We gaan door de stad.'
+      img: 'Vi skal gå gjennom byen.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: "We zullen veel auto's, winkels en grote huizen kunnen zien."
+      img: "Vi vil kunne se massevis av biler, butikker og store hus."
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Er zijn veel mensen op straat.'
+      img: 'Det er mye folk i gatene.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Wijs me de weg, alsjeblieft.'
+      img: 'Vis meg veien, vær så snill.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Ga rechtdoor en sla dan linksaf.'
+      img: 'Gå rett og ta deretter til venstre.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Sla rechtsaf bij de gigantische brug.'
+      img: 'Ta til høyre ved den gigantiske broen.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Er is mijn favoriete winkel aan de rechterkant en een kerk aan de linkerkant.'
+      img: 'Det er favorittbutikken min til høyre og en kirke til venstre.'
     }
   ]
 

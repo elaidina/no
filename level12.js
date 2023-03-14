@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Ik zal thee voor je zetten.'
+      img: 'Jeg skal lage en te til deg.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Hij heeft keelpijn en hoofdpijn.'
+      img: 'Han har vondt i halsen og hodepine.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Ze hebben allemaal buikpijn.'
+      img: 'De har alle vondt i magen.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Wat is er mis met me?'
+      img: 'Hva er i veien med meg?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'We moeten thuis blijven.'
+      img: 'Vi må holde oss hjemme.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Ik wil niet verkouden worden.'
+      img: 'Jeg vil ikke bli forkjølet.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Ik blijf veel groenten en fruit eten en warme thee drinken met citroen en honing.'
+      img: 'Jeg fortsetter å spise mye frukt og grønnsaker og drikke varm te med sitron og honning.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Veeg je neus af met een zakdoek.'
+      img: 'Tørk nesen med en hanky.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Ga met me mee.'
+      img: 'Kom med meg.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'U kunt me helpen als u wilt.'
+      img: 'Du kan hjelpe meg hvis du vil.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Ze komt in de middag terug..'
+      img: 'Hun kommer tilbake på ettermiddagen.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: "Ik wil 's avonds televisie kijken."
+      img: "Jeg vil se på TV om kvelden."
     }
   ]
 

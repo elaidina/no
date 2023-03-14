@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Wat denk jij ervan?'
+      img: 'Hva synes du om det?'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Doe het licht uit.'
+      img: 'Skru av lyset.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Waar speel je met je vrienden?'
+      img: 'Hvor leker du med vennene dine?'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Wanneer kom je thuis van je werk?'
+      img: 'Når kommer du hjem fra jobb?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Houd de schroevendraaier vast..'
+      img: 'Hold skrutrekkeren.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Ik kijk elke avond een verhaaltje voor het slapengaan.'
+      img: 'Jeg ser en godnatthistorie hver kveld.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Kun je raden wat ik ben?'
+      img: 'Kan du gjette hva jeg er?'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Plant u bloemen en bomen?'
+      img: 'Planter du blomster og trær?'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Ja, ik ben een tuinman.'
+      img: 'Ja, jeg er gartner.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Raad eens waar ik aan denk.'
+      img: 'Gjett hva jeg tenker på.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Is het een jongen, een meisje, een dier of een ding?'
+      img: 'Er det en gutt, en jente, et dyr eller en ting?'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Hangt het aan de muur?'
+      img: 'Henger den på veggen?'
     }
   ]
 

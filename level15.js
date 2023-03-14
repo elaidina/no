@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Ruim deze kamer op, alsjeblieft.'
+      img: 'Rydd opp i dette rommet, vær så snill.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Ik zoek mijn kussen.'
+      img: 'Jeg leter etter puten min.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Laten we onze poppen aankleden.'
+      img: 'La oss kle på dukkene våre.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Wat heeft de pop aan?'
+      img: 'Hva har dukken på seg?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'De pop heeft een blauwe onderbroek, een groene broek, een geel t-shirt, schoentjes en een groen jasje.'
+      img: 'Dukken har fått blå underbukser, grønne bukser, gul t-skjorte, små sko og grønn jakke.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Je ziet er zo mooi uit in deze jurk.'
+      img: 'Du ser så nydelig ut i denne kjolen.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Ze draagt een rode rok, een wit broekje, een blauwe maillot, een witte blouse en een groen jasje.'
+      img: 'Hun har på seg et rødt skjørt, hvite nickers, blå strømpebukser, en hvit bluse og en grønn jakke.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Ze gaan vandaag op reis.'
+      img: 'De skal på tur i dag.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Ze moeten veel dingen inpakken.'
+      img: 'De trenger å pakke mange ting.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Ik wil niet opstaan.'
+      img: 'Jeg vil ikke stå opp.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Je trekt je sportschoenen aan en je bent klaar om te gaan.'
+      img: 'Du tar på deg trenerne og du er klar til å gå.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'De hele familie gaat vandaag naar het platteland.'
+      img: 'Hele familien skal til landet i dag.'
     }
   ]
 

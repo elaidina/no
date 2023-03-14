@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Beweegt het?'
+      img: 'Beveger den seg?'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Hoe ga je naar school?'
+      img: 'Hvordan går du til skolen?'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Te voet, met de bus, met de tram of met de auto?'
+      img: 'Til fots, med buss, trikk eller bil?'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'We gaan een salade maken in de keuken.'
+      img: 'Vi skal lage salat på kjøkkenet.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'We hebben een mes nodig, een lepel, een kom, wortels, een komkommer, een kool, erwten, wat suiker en citroensap.'
+      img: 'Vi trenger en kniv, en skje, en bolle, gulrøtter, en agurk, en kål, erter, litt sukker og sitronsaft.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Eerst snijden we de groenten.'
+      img: 'Først kutter vi grønnsakene.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Dan mengen we alle ingrediënten door elkaar.'
+      img: 'Så blander vi alle ingrediensene sammen.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Eindelijk hebben we alles op borden gezet.'
+      img: 'Til slutt legger vi alt på tallerkener.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'De salade is erg lekker.'
+      img: 'Salaten er veldig velsmakende.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Mijn kamer is een puinhoop.'
+      img: 'Rommet mitt er i rot.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Overal is kleding.'
+      img: 'Det er klær overalt.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Al mijn boeken en speelgoed liggen op de grond.'
+      img: 'Alle bøkene og lekene mine ligger på gulvet.'
     }
   ]
 
