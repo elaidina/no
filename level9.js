@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: "Sta niet achter me."
+      img: "Ikke stå bak meg."
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: "Dat probeer ik niet te doen."
+      img: "Jeg prøver å ikke gjøre det."
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: "We leren fietsen."
+      img: "Vi lærer å sykle."
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Waarom ween je?'
+      img: 'Hvorfor gråter du?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Omdat ik mijn been heb gebroken.'
+      img: 'Fordi jeg brakk beinet mitt.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'En ik heb ook mijn auto kapot gemaakt.'
+      img: 'Og jeg knuste bilen min også.'
     },
     {
       name: '7',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Hier zijn de sleutels.'
+      img: 'Her er nøklene.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Overtreed niet de regels.'
+      img: 'Ikke bryt reglene.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Ik ga niet naar school, maar ik kan lezen en schrijven.'
+      img: 'Jeg går ikke på skolen, men jeg kan lese og skrive.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Ik kan deze steen niet optillen.'
+      img: 'Jeg kan ikke løfte denne steinen.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'De steen is te zwaar.'
+      img: 'Stenen er for tung.'
     }
   ]
 

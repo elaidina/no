@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Ik wil een leraar worden.'
+      img: 'Jeg vil bli lærer.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Ik wil kinderen lesgeven.'
+      img: 'Jeg vil lære barn.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Ze wil dokter worden.'
+      img: 'Hun vil bli lege.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Haar droom is om mensen te genezen.'
+      img: 'Drømmen hennes er å kurere mennesker.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Kun je autorijden?'
+      img: 'Kan du kjøre bil?'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Ja, ik ben een goede chauffeur.'
+      img: 'Ja, jeg er en god sjåfør.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: "Hoeveel auto's heb je?"
+      img: "Hvor mange biler har du?"
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: "Ik heb twee auto's en drie fietsen."
+      img: "Jeg har to biler og tre sykler."
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Kom en speel kaarten met mij.'
+      img: 'Kom og spill kort med meg.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Ik speel liever basketbal.'
+      img: 'Jeg vil heller spille basketball.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Ben je goed in voetballen?'
+      img: 'Er du god til å spille fotball?'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Helemaal niet.'
+      img: 'Ikke i det hele tatt.'
     }
   ]
   cardArray.sort(() => 0.5 - Math.random())

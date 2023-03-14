@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: "Hoe kan ik u helpen?"
+      img: "Hvordan kan jeg hjelpe deg?"
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: "Kun je even op tafel kijken?"
+      img: "Kan du ta en titt på bordet?"
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Het lag onder de tafel.'
+      img: 'Det lå under bordet.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Ik dacht dat het op de kast of bij de stoel lag.'
+      img: 'Jeg trodde det var på skapet eller i nærheten av stolen.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: "Ik bouw een lego-auto."
+      img: "Jeg bygger en legobil."
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Kijk eens naar deze kleine foto.'
+      img: 'Se på dette lille bildet.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Er zijn veel aardbeien, kersen, frambozen en druiven.'
+      img: 'Det er mange jordbær, kirsebær, bringebær og druer.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'De peren en abrikozen zijn nog niet rijp.'
+      img: 'Pærene og aprikosene er ikke modne enda.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Hier is je bord, vork, kopje en lepel.'
+      img: 'Her er tallerkenen, gaffelen, koppen og skjeen din.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: '"Is dit jouw tas of niet?'
+      img: 'Er dette vesken din eller ikke?'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Mijn pop heeft grote blauwe ogen en lang haar.'
+      img: 'Dukken min har store blå øyne og langt hår.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: "Laten we een schaar pakken en een hart uitknippen."
+      img: "La oss ta en saks og klippe ut et hjerte."
     }
   ]
 

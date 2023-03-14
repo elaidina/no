@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Plak de ogen, de neus en de mond op het masker.'
+      img: 'Stick øynene, nesen og munnen på masken.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Mijn jurk is te kort en te wijd.'
+      img: 'Kjolen min er for kort og bred.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Ik sta in het midden van een cirkel.'
+      img: 'Jeg står i midten av en sirkel.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Doe je schoenen aan.'
+      img: 'Ta på deg skoene dine.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Zorg voor jou.'
+      img: 'Ta vare på deg.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Woont u in een stad of een dorp?'
+      img: 'Bor du i en by eller en landsby?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Wat kunt u zien?'
+      img: 'Hva kan du se?'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Ik zie een eendje, wat kuikens, een hond en een kat.'
+      img: 'Jeg kan se en andunge, noen kyllinger, en hund og en katt.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Welke kleur heeft de kat?'
+      img: 'Hvilken farge er katten?'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'De kat is zwart.'
+      img: 'Katten er svart.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Ik hou van chocolade-ijs.'
+      img: 'Jeg liker sjokoladeis.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Ik luister graag naar verhalen.'
+      img: 'Jeg liker å høre på historier.'
     }
   ]
 

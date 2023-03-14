@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: "Ga naar de deur."
+      img: "Gå til døra."
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: "Kunt u de deur dichtdoen?"
+      img: "Kan du lukke døren?"
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: "Wat doe je op dit moment?"
+      img: "Hva gjør du akkurat nå?"
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: "Ik teken een bloem."
+      img: "Jeg tegner en blomst."
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: "Ik schilder met mijn nieuwe aquarelverf."
+      img: "Jeg maler med mine nye vannfarger."
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: "Je moet je ontbijt opeten."
+      img: "Du må spise frokosten din."
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: "Wat hebben we voor ontbijt?"
+      img: "Hva skal vi ha til frokost?"
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: "Er is melk, brood en boter."
+      img: "Det er melk, brød og smør."
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: "Ik wil geen melk drinken."
+      img: "Jeg vil ikke drikke melk."
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: "Wat wil je drinken?"
+      img: "Hva ønsker du å drikke?"
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Ik heb geen dorst meer.'
+      img: 'Jeg er ikke tørst lenger.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: "Ik zoek mijn portemonnee."
+      img: "Jeg leter etter lommeboken min."
     }
   ]
   cardArray.sort(() => 0.5 - Math.random())
