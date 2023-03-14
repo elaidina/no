@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: "Nee, dat heb ik niet."
+      img: "Nei, det har jeg ikke."
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: "De zon schijnt en het is warm."
+      img: "Sola skinner og det er varmt."
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: "Wat zou je willen doen?"
+      img: "Hva har du lyst til å gjøre?"
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: "Ik wil graag uitgaan."
+      img: "Jeg vil gjerne gå ut."
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: "Sorry, wie bent u?"
+      img: "Unnskyld meg, hvem er du?"
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: "Hallo, mijn naam is Tom."
+      img: "Hei, jeg heter Tom."
     },
     {
       name: '7',
@@ -55,11 +55,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: "Is Tom een goede vriend?"
+      img: "Er Tom en god venn?"
     },
     {
       name: '8',
-      img: "Nee hij is niet."
+      img: "Nei, det er han ikke."
     },
     {
       name: '8',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: "Die lange jongen is mijn vriend."
+      img: "Den høye gutten er min venn."
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: "Kom hier en ga zitten"
+      img: "Kom hit og sett deg ned."
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: "Michelle, leen me alsjeblieft je pen."
+      img: "Michelle, lån meg pennen din, vær så snill."
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: "Laten we spelen met een bal."
+      img: "La oss leke med en ball."
     }
   ]
 
