@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Ik hou van de zomer omdat papa veel ijs voor me koopt.'
+      img: 'Jeg liker sommeren fordi pappa kjøper mye is til meg.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Het bos is heel kleurrijk in de herfst.'
+      img: 'Skogen er veldig fargerik om høsten.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'De velden, heuvels, huizen en bomen zijn bedekt met sneeuw in de winter.'
+      img: 'Åkrene, åsene, husene og trærne er dekket av snø om vinteren.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'We maken een sneeuwpop met mijn vrienden.'
+      img: 'Vi lager en snømann med vennene mine.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Mijn tante voert haar kippen en eenden met maïs en tarwe.'
+      img: 'Tanten min mater hønene og ender med mais og hvete.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Ze giet wat melk in haar kom.'
+      img: 'Hun heller litt melk i ints bolle.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'De kleine kittens zijn schattig en grappig.'
+      img: 'De små kattungene er søte og morsomme.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Ze steken altijd hun poten in de kom en morsen de melk.'
+      img: 'De legger alltid potene i bollen og søler melken.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Mijn oom is erg handig.'
+      img: 'Onkelen min er veldig hendig.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Hij plant groenten en bloemen.'
+      img: 'Han planter grønnsaker og blomster.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Oma maakt erg goede jam en gestoofd fruit.'
+      img: 'Bestemor lager veldig godt syltetøy og stuet frukt.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Ik help opa appels, peren, druiven en pruimen te plukken.'
+      img: 'Jeg hjelper bestefar med å plukke epler, pærer, druer og plommer.'
     }
   ]
 

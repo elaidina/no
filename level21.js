@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'We leren omdat we de wereld om ons heen willen leren kennen.'
+      img: 'Vi lærer fordi vi ønsker å kjenne verden rundt oss.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'We willen ook weten hoe we dingen moeten maken.'
+      img: 'Vi vil også vite hvordan man lager ting.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Mijn vriend heeft een klein broertje.'
+      img: 'Vennen min har fått en lillebror.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Hij wil alles weten.'
+      img: 'Han vil vite alt.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Hij stelt altijd vragen.'
+      img: 'Han stiller alltid spørsmål.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Leven er mensen op de maan?'
+      img: 'Bor folk på månen?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Waarom werken mensen?'
+      img: 'Hvorfor jobber folk?'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Eten en drinken bloemen?'
+      img: 'Spiser og drikker blomster?'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Ik ga naar mijn vader en vraag het hem.'
+      img: 'Jeg går til faren min og spør ham.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Hij weet veel dingen.'
+      img: 'Han vet mye.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Ik woon in een flatgebouw.'
+      img: 'Jeg bor i en blokkleilighet.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Er is geen schoorsteen in ons huis.'
+      img: 'Det er ingen skorstein på huset vårt.'
     }
   ]
 
