@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Er is een brug over de rivier.'
+      img: 'Det er en bro over elven.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Het maakt niet uit.'
+      img: 'Det spiller ingen rolle.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: "We kunnen water of jus d'orange drinken."
+      img: "Vi kan drikke vann eller appelsinjuice."
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Je zwemt als een hond.'
+      img: 'Du svømmer som en hund.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Ik zwem als een kat.'
+      img: 'Jeg svømmer som en katt.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Spreek je Engels?'
+      img: 'Snakker du engelsk?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Ik vertrek maandag.'
+      img: 'Jeg reiser på mandag.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Het spijt me heel erg dat ik moet vertrekken.'
+      img: 'Jeg er veldig lei meg for at jeg må gå.'
     },
     {
       name: '9',
@@ -71,11 +71,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'We willen graag afscheid van je nemen.'
+      img: 'Vi vil gjerne si farvel til deg.'
     },
     {
       name: '10',
-      img: 'It´s a pitty, that you are leaving.'
+      img: 'Det er synd at du drar.'
     },
     {
       name: '10',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Pas op en veel succes.'
+      img: 'Ta vare på og lykke til.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Ik geniet van veel sneeuw in januari.'
+      img: 'Jeg nyter mye snø i januar.'
     }
   ]
 

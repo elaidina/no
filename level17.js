@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'We naderen het bos.'
+      img: 'Vi nærmer oss skogen.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'We kunnen niet met de auto het bos in.'
+      img: 'Vi kan ikke gå med bil inn i skogen.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Ik vind het hier erg leuk.'
+      img: 'Jeg trives veldig godt her.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'We kunnen in de wei spelen.'
+      img: 'Vi kan leke på enga.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Kijk, er zit een vlinder op die bloem.'
+      img: 'Se, det er en sommerfugl på den blomsten.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Wil je paddenstoelen en aardbeien plukken?'
+      img: 'Vil du plukke sopp og jordbær?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Mijn vriend woont in een huis bij de rivier.'
+      img: 'Vennen min bor i et hus nær elven.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Hij speelt elke dag met zijn hond.'
+      img: 'Han leker med hunden sin hver dag.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Kijkt u soms naar paarden en koeien in de wei?'
+      img: 'Ser du noen ganger på hester og kuer på enga?'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Ik ben bang voor die grote hond.'
+      img: 'Jeg er redd for den store hunden.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Ik wil je iets laten zien.'
+      img: 'Jeg vil vise deg noe.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Wil je varkens en biggen zien?'
+      img: 'Vil du se ut gris og smågris?'
     }
   ]
 
