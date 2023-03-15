@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: "Ik heb je baby's gevonden."
+      img: "Jeg har funnet babyene dine."
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Doe dat niet!'
+      img: 'Ikke gjør det!'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Als het rood is, moeten we stoppen en wachten tot het weer groen is.'
+      img: 'Når det er rødt, må vi stoppe og vente til det er grønt igjen.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Houd mijn handen stevig vast.'
+      img: 'Hold godt i hendene mine.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Dit is een erg drukke weg.'
+      img: 'Dette er en veldig trafikkert vei.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'We moeten een veilige oversteek vinden.'
+      img: 'Vi må finne et trygt kryss.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Kijk, er zijn verkeerslichten.'
+      img: 'Se, det er trafikklys.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Ik drukte op de knop en al snel stopte het verkeer.'
+      img: 'Jeg trykket på knappen og snart stoppet trafikken.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'De groene man heeft ons laten zien dat we nu moeten oversteken.'
+      img: 'Den grønne mannen viste oss at vi skulle krysse nå.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Hij piepte om op te schieten.'
+      img: 'Han piper for å skynde oss.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Ze was blij haar vriendin te zien.'
+      img: 'Hun var glad for å se vennen sin.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Ze voetbalden in de tuin.'
+      img: 'De spilte fotball i hagen.'
     }
   ]
 

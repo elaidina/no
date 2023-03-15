@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Ze konden me nergens vinden.'
+      img: 'De kunne ikke finne meg noe sted.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Toen we het nieuwe huis bereikten, voelden we ons ellendig.'
+      img: 'Da vi nådde det nye huset følte vi oss elendige.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Ik heb net een lumineus idee gehad!'
+      img: 'Jeg har nettopp fått en lys idé!'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Een van mijn veters ging los en ik trapte erop.'
+      img: 'En på lissene mine ble løsnet og jeg tråkket på den.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Ik moest mijn veters goed strikken.'
+      img: 'Jeg måtte knyte lissene mine skikkelig.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Hij reed weg in de auto.'
+      img: 'Han kjørte bort i bilen.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Mama was niet erg blij met mij.'
+      img: 'Mamma var ikke veldig fornøyd med meg.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Er was zoveel te doen.'
+      img: 'Det var så mye å gjøre.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Laten we die boom gaan beklimmen.'
+      img: 'La oss gå og klatre i treet.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Die nacht sliep ik voor het eerst in mijn nieuwe slaapkamer.'
+      img: 'Den natt sov jeg på det nye soverommet mitt for første gang.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Al snel sliep ik in mijn nieuwe huis.'
+      img: 'Snart sov jeg i mitt nye hjem.'
     }
   ]
 
