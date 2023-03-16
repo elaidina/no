@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Maar Tom herinnerde zich al snel hoe hij het moest doen.'
+      img: 'Maar Tom herinnerde zich al snel hoe hij het moest doenMen Tom husket snart hvordan det skulle gjøres.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Ik vind onze tent het leukst.'
+      img: 'Jeg liker teltet vårt best.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Ik ging water halen.'
+      img: 'Jeg gikk for å hente vann.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Na het eten ging Tom het bos verkennen.'
+      img: 'Etter kveldsmat dro Tom for å utforske skogen.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Iemand heeft pijlen op de bomen geschilderd.'
+      img: 'Noen har malt piler på trærne.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Als we die pijlen volgen, nemen ze ons mee voor een flinke wandeling en brengen ze ons terug naar het kamp.'
+      img: 'Hvis vi følger disse pilene, vil de ta oss en god tur og bringe oss tilbake til leiren.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'De grote jongens waren erg luidruchtig.'
+      img: 'De store guttene bråket veldig.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Laten we in onze tent gaan spelen.'
+      img: 'La oss gå og leke i teltet vårt.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Het wordt tijd dat jullie tweeën in je slaapzakken kruipen.'
+      img: 'Det er på tide at dere to legger dere i soveposene deres.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Tom sliep bijna in zijn knusse slaapzak toen er iets tegen zijn tent viel.'
+      img: 'Tom sov nesten i den koselige soveposen sin da noe traff teltet hans.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Hij schrok er van.'
+      img: 'Det ga ham en skrekk.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'De stoute jongens hadden tegen Toms tent hard tegen een voetbal getrapt.'
+      img: 'De slemme guttene hadde sparket hardt en fotball mot teltet til Tom.'
     }
   ]
 

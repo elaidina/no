@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'De kleine heks begon zich erg moe te voelen na haar harde werken.'
+      img: 'Den lille heksa begynte å føle seg veldig sliten etter hennes harde arbeid.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Ze leefden nog lang en gelukkig.'
+      img: 'De levde alle lykkelige alle sine dager.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Kijk omhoog en kijk omlaag.'
+      img: 'Se opp og se ned.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Er zit een lek in het dak.'
+      img: 'Det er en lekkasje i taket.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Het is gemakkelijk te repareren.'
+      img: 'Det er enkelt å reparere.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Maar hoe kun je daarboven reiken?'
+      img: 'Men hvordan kan du nå opp dit?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Ik kan niet omhoog klimmen.'
+      img: 'Jeg kan ikke klatre opp.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Het is veel te steil..'
+      img: 'Det er alt for bratt.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Ik moet een ladder lenen.'
+      img: 'Jeg må låne en stige.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Het kind springt over de plassen en struikelt.'
+      img: 'Gungen hopper over sølepyttene og turer.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Ze legt uit hoe de regen in haar thee druppelde.'
+      img: 'Hun forklarer hvordan regnet dryppet i teen hennes.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Mijn raam wil niet sluiten.'
+      img: 'Vinduet mitt lukkes ikke.'
     }
   ]
 

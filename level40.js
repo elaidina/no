@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'En eet of drink niet in bed.'
+      img: 'Og ikke spis eller drikk i sengen.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Zelfs geen water?'
+      img: 'Ikke vann engang?'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Alleen water.'
+      img: 'Bare vann.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Zoete dranken kunnen je tanden net zo veel pijn doen als zoet voedsel.'
+      img: 'Søt drikke kan skade tennene like mye som søt mat.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Kom terug en zie me snel.'
+      img: 'Kom tilbake og se meg snart.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Voordat ze naar huis gingen, schreef de receptioniste de datum van hun volgende bezoek op.'
+      img: 'Før de dro hjem skrev resepsjonisten ned datoen for neste besøk.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'De kleine jongen probeerde niet te huilen.'
+      img: 'Den lille gutten prøvde å ikke gråte.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Wat is er aan de hand, Tom?'
+      img: 'Hva er i veien, Tom?'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Ik heb kiespijn.'
+      img: 'Jeg har tannverk.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Hij eet te veel snoepjes.'
+      img: 'Han spiser for mye søtsaker.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Laat maar.'
+      img: 'Glem det.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Mevrouw White zal het beter maken.'
+      img: 'Mrs White vil gjøre det bedre.'
     }
   ]
 

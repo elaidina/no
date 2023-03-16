@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Ze deed een wegwerpmasker over haar neus en mond.'
+      img: 'Hun la en engangsmaske over nesen og munnen.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Waar is dat voor?'
+      img: 'Hva er det for?'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Zodat ik niet over je heen adem.'
+      img: 'Slik at jeg ikke puster over deg.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Nu is het jouw beurt.'
+      img: 'Det er din tur nå.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Ze vond een gaatje in een van Toms tanden.'
+      img: 'Hun fant et lite hul i en av tennene til Tom.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Ik zal dat gat schoonmaken en er een vulling in doen.'
+      img: 'Jeg skal rense det hullet og fylle det.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Het zal voorkomen dat er stukjes voedsel binnenkomen en vies worden.'
+      img: 'Det vil stoppe matbiter som kommer inn og blir ekle.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Het zuigbuisje in Toms mond maakte grappige zuiggeluiden.'
+      img: 'Sugerøret i Toms munn laget morsomme sugelyder.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Toen gebruikte ze een zoemende boor om het gat in Toms tand schoon te maken.'
+      img: 'Så brukte hun en drill for å rense ut hullet i Toms tann.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'De verpleegster gaf Tom een glas roze water om haar mond te spoelen.'
+      img: 'Sykepleieren ga Tom et glass rosa vann for å skylle munnen hennes.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'De tandarts heeft het gaatje gedroogd met een klein luchtblazertje, zodat de vulling er strak in zou blijven zitten.'
+      img: 'Tannlegen tørket hullet med en liten luftblåser, slik at fyllingen skulle feste seg tett inni.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'De verpleegster heeft een heel klein beetje zilvervulling gemengd.'
+      img: 'Sykepleieren blandet en bitteliten bit sølvfyll.'
     }
   ]
 

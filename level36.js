@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Het zit vast.'
+      img: 'Den sitter fast.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Hij doet wat hij kan om het gat te dichten.'
+      img: 'Han gjør det han kan for å tette gapet.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Het probleem is dat je glas te dun is.'
+      img: 'Problemet er at glasset ditt er for tynt.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Rij langzaam terug.'
+      img: 'Kjør sakte tilbake.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Vertraag in de bochten.'
+      img: 'Sett ned i svingene.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Hij gaat crashen.'
+      img: 'Han kommer til å krasje.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Wat een hoop pech.'
+      img: 'For mye uflaks.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Als die regen maar niet in zijn thee was gedruppeld.'
+      img: 'Hvis bare det regnet ikke hadde dryppet i teen hans.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Hij vergat zijn badkraan dicht te draaien.'
+      img: 'Han glemte å skru av badekranen.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Dit boek is van mij.'
+      img: 'Denne boken tilhører meg.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Ik moet naar de tandarts.'
+      img: 'Jeg må gå til tannlegen.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Dit boek is van hem.'
+      img: 'Denne boken tilhører ham.'
     }
   ]
 

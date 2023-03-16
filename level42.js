@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Zodra hij thuiskwam, probeerde hij zijn nieuwe tandenborstel uit.'
+      img: 'Så snart han kom hjem, prøvde han ut den nye tannbørsten sin.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Michelle was erg opgewonden.'
+      img: 'Michelle var veldig spent.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Het zou binnenkort Kerstmis zijn, dus schreef ze haar wensen.'
+      img: 'Det skulle snart være jul, så hun skrev sine ønsker.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'We deden onze mutsen, jassen, sjaals en handschoenen aan omdat het buiten koud was.'
+      img: 'Vi tok på oss hatter, kåper, skjerf og hansker fordi det var kaldt ute.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Er waren veel gezinnen die kerstbomen aan het uitzoeken waren in het tuincentrum.'
+      img: 'Det var mange familier som valgte juletrær på Hagesenteret.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Welke boom zullen we krijgen?'
+      img: 'Hvilket tre skal vi få?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Ik vind die leuk omdat hij erg groot is.'
+      img: 'Jeg liker den fordi den er veldig stor.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Het is te groot om in onze auto te passen.'
+      img: 'Den er for stor til å få plass i bilen vår.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Ze waren het eens over een hele mooie kleinere boom.'
+      img: 'De ble enige om et veldig fint mindre tre.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Pa heeft een karretje voor de boom gehaald.'
+      img: 'Pappa hentet en vogn til treet.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'De kinderen hielpen met het duwen van de trolley.'
+      img: 'Ungene hjalp til med å dytte trallen.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Ze mochten twee nieuwe boomversieringen uitkiezen.'
+      img: 'De kunne velge to nye tredekorasjoner.'
     }
   ]
 

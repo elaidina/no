@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Ze hebben een geweldige tijd gehad in het bos.'
+      img: 'De hadde en fantastisk tid i skogen.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Ze slingerden als apen uit bomen.'
+      img: 'De svingte fra trær som aper..'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Ik ben de koning van de jungle!'
+      img: 'Jeg er kongen av jungelen!'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Ze achtervolgden konijnen en probeerden ze te vangen.'
+      img: 'De jaget etter kaniner og prøvde å fange dem.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Maar de konijnen renden sneller.'
+      img: 'Men kaninene løp fortere.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Ik had er bijna een gevangen, maar hij rende door een konijnenhol.'
+      img: 'Jeg fanget nesten en, men den rant ned i et kaninhull.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Eindelijk begonnen ze honger te krijgen.'
+      img: 'Til slutt begynte de å føle seg sultne.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Niemand had ontbeten.'
+      img: 'Ingen av dem hadde spist frokost.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Ze wilden terug naar het kamp, maar ze wisten niet welke kant ze op moesten.'
+      img: 'De ville tilbake til leiren, men de visste ikke hvilken vei de skulle gå.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'We zijn verdwaald.'
+      img: 'Vi er fortapt.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Solo venía a buscarteIk kwam je net zoeken.'
+      img: 'Jeg skulle bare komme for å finne deg.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Wat heb jij uitgespookt?'
+      img: 'Hva har du holdt på med?'
     }
   ]
 

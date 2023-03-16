@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Tom keek naar haar..'
+      img: 'Tom så på henne.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Mevrouw White duwde het zilvervijlsel in het gaatje van Toms tand.'
+      img: 'Mrs White dyttet sølvfilet inn i hullet på Toms tann.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Ze drukte het naar beneden en maakte het perfect glad.'
+      img: 'Hun presset den ned og gjorde den helt jevn.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Zo goed als nieuw!'
+      img: 'God som ny!'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Deed het pijn?'
+      img: 'Gjorde det vondt?'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'De boor was luidruchtig.'
+      img: 'Drillen var støyende.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Maar het deed geen pijn.'
+      img: 'Men det gjorde ikke vondt.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Jullie hebben allebei een goed gebit.'
+      img: 'Dere har begge gode tenner.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Houd ze zo.'
+      img: 'Hold dem sånn.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Eet veel verschillende soorten voedsel.'
+      img: 'Spis mye forskjellig mat.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Maar vergeet niet dat zoet voedsel je tanden kan beschadigen, dus eet ze niet te vaak.'
+      img: 'Men husk, søt mat kan skade tennene dine, så ikke spis dem for ofte.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: "Vergeet nooit om 's ochtends en voor het slapen gaan je tanden te poetsen met een floride tandpasta."
+      img: "Glem aldri å rense tennene om morgenen og ved sengetid med en floride tannkrem."
     }
   ]
 

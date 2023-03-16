@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'In de ochtend rende hij regelrecht naar buiten om een sneeuwpop te maken.'
+      img: 'Om morgenen løp han rett ut for å bygge en snømann.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Papa hielp hen en eindelijk hadden ze een prachtige sneeuwpop.'
+      img: 'Pappa hjalp dem og endelig hadde de en flott snømann.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Tom rende naar binnen en haalde een oude hoed voor zijn hoofd en een wortel voor zijn neus.'
+      img: 'Tom løp innendørs og hentet en gammel lue til hodet og en gulrot til nesen.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Het begon donker te worden.'
+      img: 'Det ble mørkt.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Ze hadden een verrassing toen ze de woonkamer binnengingen.'
+      img: 'De fikk seg en overraskelse da de gikk inn i stua.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'De kerstboom was bedekt met fonkelende lichtjes, klatergoud en klein speelgoed.'
+      img: 'Juletreet var dekket av blinkende lys, tinsel og bittesmå leker.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Het roodborstje zat helemaal boven in de boom.'
+      img: 'Robinen satt rett på toppen av treet.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Het is niet eerlijk.'
+      img: 'Det er ikke rettferdig.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Mijn engel zou bovenaan moeten staan.'
+      img: 'Engelen min burde være på toppen.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Kitty wandelde de kamer binnen en zag het roodborstje.'
+      img: 'Kitty ruslet inn i rommet og fikk øye på robinen.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Eindelijk was het kerstavond, de avond waarop de kerstman komt.'
+      img: 'Endelig var det julaften, natten da julenissen kommer.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Tom is naar bed gegaan, maar hij wilde niet slapen.'
+      img: 'Tom gikk og la seg, men han ville ikke sove.'
     }
   ]
 

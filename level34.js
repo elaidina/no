@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Maar het meisje was niet zomaar een meisje.'
+      img: 'Men jenta var ikke bare en jente.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Ze was een heks.'
+      img: 'Hun var en heks.'
     },
     {
       name: '3',
@@ -23,11 +23,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Ze wist hoe ze geesten moest vangen.'
+      img: 'Hun visste hvordan hun fange spøkelser.'
     },
     {
       name: '4',
-      img: 'I hope there are some more!'
+      img: 'Jeg håper det er noen flere!'
     },
     {
       name: '4',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Ze ging door totdat ze alle geesten in huis had gevangen.'
+      img: 'Hun fortsatte til hun hadde fanget alle spøkelsene i huset.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Toen ging ze naar de keuken.'
+      img: 'Så gikk hun på kjøkkenet.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Ze heeft ze allemaal in de wasmachine gedaan.'
+      img: 'Hun la dem alle i vaskemaskinen.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Toen ze schoon waren, heeft ze ze in de tuin gehangen.'
+      img: 'Når de var rene, hengte hun dem ut i hagen.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Het was mooi weer om te drogen.'
+      img: 'Det var fint vær for tørking.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Na het drogen werden de meeste geesten mooie gordijnen.'
+      img: 'Etter tørking ble de fleste spøkelsene fine gardiner.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Een van hen heeft een goed tafelkleed gemaakt.'
+      img: 'En av dem laget en god duk.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Ze waren allemaal erg nuttig.'
+      img: 'De var alle veldig nyttige.'
     }
   ]
 
