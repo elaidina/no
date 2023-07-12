@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'De svingte fra trær som aper..'
+      img: 'De svingte fra trær som aper.'
     },
     {
       name: '3',

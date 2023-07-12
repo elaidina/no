@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Så dro de til apoteket for å kjøpe nye tannbørster..'
+      img: 'Så dro de til apoteket for å kjøpe nye tannbørster.'
     },
     {
       name: '6',

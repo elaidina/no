@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'eg vil gjerne plukke noen blomster til mamma.'
+      img: 'Jeg vil gjerne plukke noen blomster til mamma.'
     },
     {
       name: '2',

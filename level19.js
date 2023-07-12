@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Det er synd at du drar.'
+      img: 'It´s a pitty, that you are leaving.'
     },
     {
       name: '10',

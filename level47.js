@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Maar Tom herinnerde zich al snel hoe hij het moest doenMen Tom husket snart hvordan det skulle gjøres.'
+      img: 'Men Tom husket snart hvordan det skulle gjøres.'
     },
     {
       name: '2',
